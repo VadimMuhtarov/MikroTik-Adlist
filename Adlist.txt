@@ -159,6 +159,7 @@
 0.0.0.0 get.optad360.io
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 ipm-mintads.in
+0.0.0.0 js.capndr.com
 0.0.0.0 js.wpadmngr.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
@@ -171,9 +172,12 @@
 0.0.0.0 onclckinp.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 protrafficinspector.com
+0.0.0.0 qq.reveledgoodish.com
 0.0.0.0 report2.hb.brainlyads.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 servetraff.com
+0.0.0.0 snailscrambledcontrivance.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv224.com
 0.0.0.0 tsyndicate.com
