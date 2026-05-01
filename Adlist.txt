@@ -179,8 +179,8 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 v.nogravity4.click
 0.0.0.0 vast.livejasmin.com
+0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 worldrealize.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 x15.adv.lijit.com
 0.0.0.0 xadsmart.com
-0.0.0.0 widgets.stackcommerce.com
