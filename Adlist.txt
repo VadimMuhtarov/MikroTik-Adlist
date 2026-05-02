@@ -77,6 +77,9 @@
 0.0.0.0 cm.idealmedia.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 s-img.idealmedia.io
+# magsrv
+0.0.0.0 a.magsrv.com
+0.0.0.0 s.magsrv.com
 # mgid
 0.0.0.0 a.mgid.com
 0.0.0.0 c.mgid.com
@@ -122,7 +125,6 @@
 # Other
 0.0.0.0 a.adspector.io
 0.0.0.0 a.adtng.com
-0.0.0.0 a.magsrv.com
 0.0.0.0 a.medfoodsafety.com
 0.0.0.0 a.opoxv.com
 0.0.0.0 a.orbsrv.com
@@ -141,6 +143,7 @@
 0.0.0.0 ads.trustx.org
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 adservone.b-cdn.net
+0.0.0.0 adv1.clickadu.com
 0.0.0.0 adx.stack.bidster.net
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 assets.bounceexchange.com
