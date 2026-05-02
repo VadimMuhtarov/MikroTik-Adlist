@@ -181,6 +181,7 @@
 0.0.0.0 pixel.advertising.com
 0.0.0.0 protrafficinspector.com
 0.0.0.0 qq.reveledgoodish.com
+0.0.0.0 reacheffectadserver.wordpressplanet.org
 0.0.0.0 report2.hb.brainlyads.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 servetraff.com
