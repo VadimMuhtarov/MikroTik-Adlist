@@ -64,6 +64,9 @@
 # flipp
 0.0.0.0 ads-flipp.com
 0.0.0.0 p.flipp.com
+# goadserver
+0.0.0.0 ams.goadserver.com
+0.0.0.0 static.goadserver.com
 # google
 0.0.0.0 adservice.google.com
 0.0.0.0 ogads-pa.clients6.google.com
@@ -143,6 +146,7 @@
 0.0.0.0 ads.trustx.org
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 adservone.b-cdn.net
+0.0.0.0 adsmediabox.com
 0.0.0.0 adv1.clickadu.com
 0.0.0.0 adx.stack.bidster.net
 0.0.0.0 api.bounceexchange.com
