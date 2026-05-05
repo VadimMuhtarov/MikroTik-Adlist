@@ -45,6 +45,9 @@
 # betweendigital
 0.0.0.0 lbs-eu1.ads.betweendigital.com
 0.0.0.0 ssp.ads.betweendigital.com
+#bounceexchange
+0.0.0.0 api.bounceexchange.com
+0.0.0.0 assets.bounceexchange.com
 # btloader
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
@@ -149,8 +152,6 @@
 0.0.0.0 adsmediabox.com
 0.0.0.0 adv1.clickadu.com
 0.0.0.0 adx.stack.bidster.net
-0.0.0.0 api.bounceexchange.com
-0.0.0.0 assets.bounceexchange.com
 0.0.0.0 beeparentdo.com
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.concert.io
