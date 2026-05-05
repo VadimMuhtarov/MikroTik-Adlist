@@ -5,6 +5,7 @@
 0.0.0.0 inv-nets-eu-s3.admixer.net
 0.0.0.0 inv-nets.admixer.net
 # adnxs
+0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 m.anycast.adnxs.com
 # adsco
