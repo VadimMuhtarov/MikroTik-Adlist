@@ -123,6 +123,9 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 static.trafficjunky.com
+# tsyndicate
+0.0.0.0 tsyndicate.com
+0.0.0.0 lcdn.tsyndicate.com
 # twinrdengine
 0.0.0.0 ad.twinrdengine.com
 0.0.0.0 s.ad.twinrdengine.com
@@ -190,6 +193,7 @@
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv224.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 v.nogravity4.click
 0.0.0.0 vast.livejasmin.com
 0.0.0.0 widgets.stackcommerce.com
