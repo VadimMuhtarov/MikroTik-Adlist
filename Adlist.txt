@@ -1,32 +1,71 @@
-# adrta
-0.0.0.0 adrta.com
-0.0.0.0 ipds.adrta.com
+# a-ads
+0.0.0.0 ad.a-ads.com
+
+# a-mx
+0.0.0.0 nld-prebid.a-mx.net
+
+# ad-delivery
+0.0.0.0 ad-delivery.net
+
+# ad2the
+0.0.0.0 ad2the.net
+
+# adexchangeclear
+0.0.0.0 adexchangeclear.com
+
 # admixer
 0.0.0.0 inv-nets-eu-s3.admixer.net
 0.0.0.0 inv-nets.admixer.net
+
 # adnxs
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 m.anycast.adnxs.com
+
+# adpushup
+0.0.0.0 ocifeedbackorigin.apdc2n.adpushup.com
+
+# adrta
+0.0.0.0 adrta.com
+0.0.0.0 ipds.adrta.com
+
+# ads-flipp
+0.0.0.0 ads-flipp.com
+
+# ads-twitter
+0.0.0.0 static.ads-twitter.com
+
 # adsco
 0.0.0.0 4.adsco.re
 0.0.0.0 6.adsco.re
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
+
 # adskeeper
 0.0.0.0 c.adskeeper.com
 0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm.adskeeper.co.uk
 0.0.0.0 cm.adskeeper.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.com
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 servicer.adskeeper.com
-0.0.0.0 clck.adskeeper.com
+
+# adsmediabox
+0.0.0.0 adsmediabox.com
+
+# adsmoloco
+0.0.0.0 noti-eu.adsmoloco.com
+
 # adsninja
 0.0.0.0 adsninja.ca
 0.0.0.0 cdn.adsninja.ca
 0.0.0.0 telemetry.adsninja.ca
+
+# adspector
+0.0.0.0 a.adspector.io
+
 # adsrvr
 0.0.0.0 eur-bid-openpath.adsrvr.org
 0.0.0.0 ie1-openads.gen.adsrvr.org
@@ -34,24 +73,78 @@
 0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 openads-cdn.adsrvr.org
+
+# adt567
+0.0.0.0 cdn.adt567.net
+
+# adthrive
+0.0.0.0 ads.adthrive.com
+
+# adtng
+0.0.0.0 a.adtng.com
+
 # adtrafficquality
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
+
+# advertising
+0.0.0.0 pixel.advertising.com
+
+# advolve
+0.0.0.0 cm-us.advolve.io
+
 # amazon-adsystem
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 maws-aax-eu.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+
+# b-cdn
+0.0.0.0 adservone.b-cdn.net
+
+# beeparentdo
+0.0.0.0 beeparentdo.com
+
 # betweendigital
 0.0.0.0 lbs-eu1.ads.betweendigital.com
 0.0.0.0 ssp.ads.betweendigital.com
-#bounceexchange
+
+# bidster
+0.0.0.0 adx.stack.bidster.net
+
+# bounceexchange
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 assets.bounceexchange.com
+
+# brainlyads
+0.0.0.0 report2.hb.brainlyads.com
+
 # btloader
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
+
+# buysellads
+0.0.0.0 srv.buysellads.com
+
+# capndr
+0.0.0.0 js.capndr.com
+
+# clickadu
+0.0.0.0 adv1.clickadu.com
+
+# concert
+0.0.0.0 cdn.concert.io
+
+# confiant-integrations
+0.0.0.0 cdn.confiant-integrations.net
+
+# criteo
+0.0.0.0 ads.fr3.vip.prod.criteo.com
+
+# crwdcntrl
+0.0.0.0 ad.crwdcntrl.net
+
 # doubleclick
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adx.g.doubleclick.net
@@ -65,28 +158,61 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www3.doubleclick.net
+
 # flipp
-0.0.0.0 ads-flipp.com
 0.0.0.0 p.flipp.com
+
+# franecki
+0.0.0.0 franecki.net
+
+# franeski
+0.0.0.0 franeski.net
+
 # goadserver
 0.0.0.0 ams.goadserver.com
 0.0.0.0 static.goadserver.com
+
 # google
 0.0.0.0 adservice.google.com
 0.0.0.0 ogads-pa.clients6.google.com
+
+# googleadservices
+0.0.0.0 www.googleadservices.com
+
 # googlesyndication
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+
 # idealmedia
 0.0.0.0 c.idealmedia.io
 0.0.0.0 clck.idealmedia.io
 0.0.0.0 cm.idealmedia.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 s-img.idealmedia.io
+
+# ipm-mintads
+0.0.0.0 ipm-mintads.in
+
+# lijit
+0.0.0.0 x15.adv.lijit.com
+
+# livejasmin
+0.0.0.0 vast.livejasmin.com
+
 # magsrv
 0.0.0.0 a.magsrv.com
 0.0.0.0 s.magsrv.com
+
+# mail
+0.0.0.0 ad.mail.ru
+
+# medfoodsafety
+0.0.0.0 a.medfoodsafety.com
+
+# membrana
+0.0.0.0 cdn.membrana.media
+
 # mgid
 0.0.0.0 a.mgid.com
 0.0.0.0 c.mgid.com
@@ -97,106 +223,142 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 www.mgid.com
+
+# moatads
+0.0.0.0 nados-lb-lhr.moatads.com
+
+# monetixads
+0.0.0.0 adpushupprebid.rtb.monetixads.com
+
+# nogravity4
+0.0.0.0 v.nogravity4.click
+
+# onclckinp
+0.0.0.0 onclckinp.com
+
 # onclckstr
 0.0.0.0 bid.onclckstr.com
 0.0.0.0 mauc.onclckstr.com
+
+# onetag-sys
+0.0.0.0 onetag-sys.com
+
+# openx
+0.0.0.0 rtb.openx.net
+
+# opoxv
+0.0.0.0 a.opoxv.com
+
+# optad360
+0.0.0.0 get.optad360.io
+
+# orbsrv
+0.0.0.0 a.orbsrv.com
+
+# outbrain
+0.0.0.0 nydc1.outbrain.org
+
 # permutive
 0.0.0.0 a.api.permutive.app
 0.0.0.0 api.permutive.com
 0.0.0.0 cdn.permutive.com
+
+# protrafficinspector
+0.0.0.0 protrafficinspector.com
+
 # pub
 0.0.0.0 a.pub.network
 0.0.0.0 c.pub.network
 0.0.0.0 d.pub.network
+
+# pubmatic
+0.0.0.0 ads.pubmatic.com
+
+# reveledgoodish
+0.0.0.0 qq.reveledgoodish.com
+
+# rlcdn
+0.0.0.0 idsync.rlcdn.com
+
+# rtbsystem
+0.0.0.0 cm.rtbsystem.com
+
+# rubiconproject
+0.0.0.0 micro.rubiconproject.com
+
+# servenobid
+0.0.0.0 ads.servenobid.com
+
+# servetraff
+0.0.0.0 servetraff.com
+
 # smartadserver
 0.0.0.0 rtb-csync-euw2.smartadserver.com
 0.0.0.0 ssbsync-euw1.smartadserver.com
 0.0.0.0 ssbsync-euw2.smartadserver.com
+
+# snailscrambledcontrivance
+0.0.0.0 snailscrambledcontrivance.com
+
+# srv224
+0.0.0.0 cdn77.srv224.com
+0.0.0.0 srv224.com
+
+# stackcommerce
+0.0.0.0 widgets.stackcommerce.com
+
+# stickyadstv
+0.0.0.0 ads.stickyadstv.com
+
 # taboola
 0.0.0.0 am-vip001.taboola.com
 0.0.0.0 ch-vip001.taboola.com
 0.0.0.0 us-cds.taboola.com
+
+# technoratimedia
+0.0.0.0 adserver.technoratimedia.com
+
 # tortuga
 0.0.0.0 calypso.tortuga.tw
 0.0.0.0 db.tortuga.tw
 0.0.0.0 tortuga.tw
+
 # trafficjunky
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 static.trafficjunky.com
+
+# traffmovie
+0.0.0.0 cdn.traffmovie.com
+
+# trendii
+0.0.0.0 cdn.trendii.com
+
+# trustx
+0.0.0.0 ads.trustx.org
+
 # tsyndicate
-0.0.0.0 tsyndicate.com
 0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 tsyndicate.com
+
 # twinrdengine
 0.0.0.0 ad.twinrdengine.com
 0.0.0.0 s.ad.twinrdengine.com
-# twitter
-0.0.0.0 static.ads-twitter.com
-# Other
-0.0.0.0 a.adspector.io
-0.0.0.0 a.adtng.com
-0.0.0.0 a.medfoodsafety.com
-0.0.0.0 a.opoxv.com
-0.0.0.0 a.orbsrv.com
-0.0.0.0 ad-delivery.net
-0.0.0.0 ad.a-ads.com
-0.0.0.0 ad.crwdcntrl.net
-0.0.0.0 ad.mail.ru
-0.0.0.0 ad2the.net
-0.0.0.0 adexchangeclear.com
-0.0.0.0 adpushupprebid.rtb.monetixads.com
-0.0.0.0 ads.adthrive.com
-0.0.0.0 ads.fr3.vip.prod.criteo.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 ads.servenobid.com
-0.0.0.0 ads.stickyadstv.com
-0.0.0.0 ads.trustx.org
-0.0.0.0 adserver.technoratimedia.com
-0.0.0.0 adservone.b-cdn.net
-0.0.0.0 adsmediabox.com
-0.0.0.0 adv1.clickadu.com
-0.0.0.0 adx.stack.bidster.net
-0.0.0.0 beeparentdo.com
-0.0.0.0 cdn.adt567.net
-0.0.0.0 cdn.concert.io
-0.0.0.0 cdn.confiant-integrations.net
-0.0.0.0 cdn.membrana.media
-0.0.0.0 cdn.traffmovie.com
-0.0.0.0 cdn.trendii.com
-0.0.0.0 cdn77.srv224.com
-0.0.0.0 cm-us.advolve.io
-0.0.0.0 cm.rtbsystem.com
-0.0.0.0 franecki.net
-0.0.0.0 franeski.net
-0.0.0.0 get.optad360.io
-0.0.0.0 idsync.rlcdn.com
-0.0.0.0 ipm-mintads.in
-0.0.0.0 js.capndr.com
-0.0.0.0 js.wpadmngr.com
+
+# webvisor
 0.0.0.0 mc.webvisor.org
-0.0.0.0 mc.yandex.ru
-0.0.0.0 micro.rubiconproject.com
-0.0.0.0 nados-lb-lhr.moatads.com
-0.0.0.0 nld-prebid.a-mx.net
-0.0.0.0 noti-eu.adsmoloco.com
-0.0.0.0 nydc1.outbrain.org
-0.0.0.0 ocifeedbackorigin.apdc2n.adpushup.com
-0.0.0.0 onclckinp.com
-0.0.0.0 onetag-sys.com
-0.0.0.0 pixel.advertising.com
-0.0.0.0 protrafficinspector.com
-0.0.0.0 qq.reveledgoodish.com
+
+# wordpressplanet
 0.0.0.0 reacheffectadserver.wordpressplanet.org
-0.0.0.0 report2.hb.brainlyads.com
-0.0.0.0 rtb.openx.net
-0.0.0.0 servetraff.com
-0.0.0.0 snailscrambledcontrivance.com
-0.0.0.0 srv.buysellads.com
-0.0.0.0 srv224.com
-0.0.0.0 v.nogravity4.click
-0.0.0.0 vast.livejasmin.com
-0.0.0.0 widgets.stackcommerce.com
+
+# worldrealize
 0.0.0.0 worldrealize.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 x15.adv.lijit.com
+
+# wpadmngr
+0.0.0.0 js.wpadmngr.com
+
+# xadsmart
 0.0.0.0 xadsmart.com
+
+# yandex
+0.0.0.0 mc.yandex.ru
