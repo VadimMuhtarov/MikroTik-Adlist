@@ -82,6 +82,9 @@
 0.0.0.0 d.pub.network
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 db.tortuga.tw
+0.0.0.0 dsp-service.admatic.de
+0.0.0.0 dsp-service.adtarget.biz
+0.0.0.0 dsp-service.pixad.com.tr
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
 0.0.0.0 eur-bid-openpath.adsrvr.org
@@ -128,6 +131,9 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pixel.advertising.com
+0.0.0.0 prebid.admatic.de
+0.0.0.0 prebid.adtarget.biz
+0.0.0.0 prebid.pixad.com.tr
 0.0.0.0 protrafficinspector.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 qq.reveledgoodish.com
@@ -138,6 +144,7 @@
 0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 s-img.idealmedia.io
 0.0.0.0 s-img.mgid.com
+0.0.0.0 s.ad.smaato.net
 0.0.0.0 s.ad.twinrdengine.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.magsrv.com
@@ -152,6 +159,7 @@
 0.0.0.0 ssbsync-euw2.smartadserver.com
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.cdn.admatic.de
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.goadserver.com
 0.0.0.0 static.trafficjunky.com
