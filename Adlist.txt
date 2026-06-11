@@ -23,6 +23,7 @@
 0.0.0.0 adrta.com
 0.0.0.0 ads-flipp.com
 0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.fr3.vip.prod.criteo.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servenobid.com
@@ -155,6 +156,7 @@
 0.0.0.0 static.goadserver.com
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 tagan.adlightning.com
 0.0.0.0 telemetry.adsninja.ca
 0.0.0.0 tortuga.tw
 0.0.0.0 tpc.googlesyndication.com
